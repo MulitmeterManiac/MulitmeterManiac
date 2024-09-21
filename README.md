@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MulitmeterManiac
 - 👀 I’m interested in coding, networking and electrical diy stuff
-- 🌱 I’m currently learning css/linux essentials
 
 
 <!---
